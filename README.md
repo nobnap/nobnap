@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Nobnap's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobnap&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats-wisewizardofthestars.vercel.app/api/top-langs/?username=wnobnap&theme=tokyonight&layout=compact&hide=cmake,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
+![Nobnap's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobnap&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats-wisewizardofthestars.vercel.app/api/top-langs/?username=nobnap&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
