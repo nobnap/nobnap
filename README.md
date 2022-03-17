@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 <!--
 **nobnap/nobnap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="left">
+  <a href="https://github.com/nobnap
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nobnap&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobnap&layout=compact&langs_count=7&theme=dracula%22/%3E
+</div>
