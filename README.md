@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - Computer Science and Engineering student @ Instituto Superior Técnico
 - Writer @ Diferencial, the IST Student Paper
 
-<br>
-
 ---
 
 <details>
