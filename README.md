@@ -54,7 +54,8 @@ Here are some ideas to get you started:
  [Databases](https://github.com/GreenMemory16/BD-2022-2023)
 
  ### 3rd Year
- *TBA*
+ [Computer Networks](https://github.com/sofia285/RC/tree/user_operations)
+
 </details>
 
 ---
