@@ -26,15 +26,13 @@ Here are some ideas to get you started:
 
  ### 1st Year
 
- <summary>Foundations of Programming</summary>  
-
+ Foundations of Programming
  + [1st Project](https://github.com/nobnap/FP-project1)
  + [2nd Project](https://github.com/nobnap/FP-project2)
 
  [Logic for Programming](https://github.com/nobnap/LP-project)
 
- <summary>Introduction to Algorithms and Data Structures</summary>  
-
+ Introduction to Algorithms and Data Structures
  + [1st Project](https://github.com/nobnap/IAED-project1)
  + [2nd Project](https://github.com/nobnap/IAED-project2)
 
@@ -42,8 +40,7 @@ Here are some ideas to get you started:
  ### 2nd Year
  [Object-Oriented Programming](https://github.com/franciscoBSalgueiro/PO-project)
 
-<summary>Operating Systems</summary>  
-
+ Operating Systems  
  + [1st Project](https://github.com/nobnap/SO-project)
  + [2nd Project](https://github.com/nobnap/SO-project2)
 
@@ -63,9 +60,7 @@ Here are some ideas to get you started:
 <details>
 <summary><b>Personal Projects</b> 💻</summary>
 
-<summary>
-<a href="https://github.com/nobnap/tasky-cli">Tasky</a></summary>  
-
+[Tasky](https://github.com/nobnap/tasky-cli)
 - Command Line To-Do list written in Rust
 </details>
 
